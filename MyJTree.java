@@ -49,7 +49,6 @@ public class MyJTree extends JFrame implements ActionListener {
 	}
 	
 	
-	
 	public static void main(String[] args){
 		SwingUtilities.invokeLater(() -> {
 			new MyJTree();
