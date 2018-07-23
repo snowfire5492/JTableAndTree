@@ -40,7 +40,6 @@ public class MyJTree extends JFrame implements ActionListener {
 		
 		setVisible(true);
 	}
-	
 		
 	public void actionPerformed(ActionEvent ae){
 		
