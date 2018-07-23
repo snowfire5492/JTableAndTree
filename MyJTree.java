@@ -49,5 +49,3 @@ public class MyJTree extends JFrame implements ActionListener {
 			new MyJTree();
 		});
 	}
-	
-}
