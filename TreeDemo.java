@@ -10,7 +10,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.TreeSelectionModel;
 import javax.swing.event.TreeSelectionEvent;
 import javax.swing.event.TreeSelectionListener;
- 
+
 import java.net.URL;
 import java.io.IOException;
 import java.awt.Dimension;
@@ -215,7 +215,7 @@ public class TreeDemo extends JPanel
                 System.err.println("Couldn't use system look and feel.");
             }
         }
-        
+
         //Create and set up the window.
         JFrame frame = new JFrame("TreeDemo");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
